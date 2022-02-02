@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **enesdemr@outlook.com.tr**
 - 
-<a href="https://enesdemrr.github.io/enesdemir.github.io/">Personal Website
+<a href="https://enesdemrr.github.io">Personal Website
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eneesdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eneesdemir" height="30" width="40" /></a>
